@@ -1,0 +1,12 @@
+14:17:58 => [error] first log message!
+14:17:58 => [error] /root/workspace/cppproject/mprpc/example/callee/friendservice.cpp:main:50
+14:17:58 => [iofo] service_name: FriendServiceRpc
+14:17:58 => [iofo] method_name: GetFriendList
+21:4:39 => [error] first log message!
+21:4:39 => [error] /root/workspace/cppproject/mprpc/example/callee/friendservice.cpp:main:50
+21:4:39 => [iofo] service_name: FriendServiceRpc
+21:4:39 => [iofo] method_name: GetFriendList
+21:16:52 => [error] first log message!
+21:16:52 => [error] /root/workspace/cppproject/mprpc/example/callee/friendservice.cpp:main:50
+21:16:52 => [iofo] service_name: FriendServiceRpc
+21:16:52 => [iofo] method_name: GetFriendList
